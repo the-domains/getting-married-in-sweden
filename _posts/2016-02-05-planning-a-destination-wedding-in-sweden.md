@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The best wedding creative professionals in Sweden
-datePublished: '2016-02-05T19:22:48.867Z'
-dateModified: '2016-02-05T19:22:45.620Z'
+datePublished: '2016-02-05T19:24:19.299Z'
+dateModified: '2016-02-05T19:24:16.053Z'
 title: Planning a destination wedding in Sweden
 author: []
 sourcePath: _posts/2016-02-05-planning-a-destination-wedding-in-sweden.md
