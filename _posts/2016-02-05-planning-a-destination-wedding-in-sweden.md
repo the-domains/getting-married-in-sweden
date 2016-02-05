@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The best wedding creative professionals in Sweden
-datePublished: '2016-02-05T19:28:54.847Z'
-dateModified: '2016-02-05T19:28:52.043Z'
+datePublished: '2016-02-05T19:31:38.404Z'
+dateModified: '2016-02-05T19:31:33.251Z'
 title: Planning a destination wedding in Sweden
 author: []
 sourcePath: _posts/2016-02-05-planning-a-destination-wedding-in-sweden.md
@@ -28,4 +28,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096486f-1e6e-4a3d-b5cc-bec17003672a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c99d76-abf0-4f44-adcc-f8e09b93b246.jpg)
 
-Welcome to Getting Married In Sweden. Here you will find the best wedding creative professionals in Sweden. You can hire us as a team and rest assured we will design the most contemporary and stunning wedding of your dream. Browse through the photos and find inspiration for your wedding. Get in touch and let's talk!
+* _Welcome to Getting Married In Sweden. Here you will find the best wedding creative professionals in Sweden. You can hire us as a team and rest assured we will design the most contemporary and stunning wedding of your dream. Browse through the photos and find inspiration for your wedding. Get in touch and let's talk!_
