@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://2brides.se'
   name: BRÖLLOPSFOTOGRAF STOCKHOLM // 2 BRIDES PHOTOGRAPHY // WEDDING PHOTOGRAPHER SWEDEN
-  favicon: 'http://2brides.se/favicon.ico'
   domain: 2brides.se
+  url: 'http://2brides.se'
+  favicon: 'http://2brides.se/favicon.ico'
 keywords:
   - ekensdal
   - wedding
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://2brides.se/blog/ekensdal-stockholm-outdoor-wedding/'
 title: Outdoor Wedding Stockholm
-datePublished: '2016-02-05T19:43:41.798Z'
-dateModified: '2016-02-05T19:42:01.551Z'
+datePublished: '2016-02-05T19:44:33.975Z'
+dateModified: '2016-02-05T19:44:31.184Z'
 sourcePath: _posts/2016-02-05-outdoor-wedding-stockholm.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
